@@ -1,0 +1,17 @@
+{
+  "name": "discordsimplenotes",
+  "version": "1.0.0",
+  "description": "a simple discord app to help you save messages and take notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "anubhav garg",
+  "license": "ISC",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^12.5.2",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.23.0"
+  }
+}
